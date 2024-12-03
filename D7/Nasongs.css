@@ -1,0 +1,49 @@
+#k1,#k2,#k3,#k4,#k5{
+    border: 2px solid black;
+    height: 200px;
+    width: 150px; 
+    border-radius: 10px;
+}
+*{
+    background-color: burlywood;
+}
+a{
+    display: inline-block;
+    margin-right: 150px;
+    margin-top: 150px;
+    margin-bottom: 40px;
+    margin-left: 50px;
+    text-decoration: none;
+    color: brown;
+}
+input{
+    height: 70px;
+    width: 300px;
+}
+#k1{
+    background-image: url(https://w0.peakpx.com/wallpaper/638/798/HD-wallpaper-ntr-daggaraku-raku-ntr.jpg);
+    background-size: cover;
+}
+#k2{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Prabhas_at_Saaho_Pre_release_event_%28cropped%29.jpg/640px-Prabhas_at_Saaho_Pre_release_event_%28cropped%29.jpg);
+    background-size: cover;
+
+   
+}
+#k3{
+    background-image: url(https://yt3.googleusercontent.com/ytc/AIdro_m90XWrTWdIDpAFCRce_H_XRE1fNVwu8RIDGlga5oZNanE=s900-c-k-c0x00ffffff-no-rj);
+    background-size: cover;
+}
+#k4{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/c/c8/Ram_Charan_in_2022.jpg);
+    background-size: cover; 
+}
+
+#k5{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcAzKxdGkgR-2EhOfoqZgHpNzT8I5rJ8aUDw&s);
+    background-size: cover;
+}
+section{
+    display: inline-block;
+}
+
